@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="calc_dialog_clear">クリア</string>
+    <string name="calc_dialog_cancel">キャンセル</string>
+    <string name="calc_dialog_ok">OK</string>
+
+    <string name="calc_answer">答え</string>
+
+    <string-array name="calc_dialog_errors">
+        <item>ゼロで除算しました</item>
+        <item>範囲外です</item>
+        <item>答えは正数でなければなりません</item>
+        <item>答えは負の数でなければなりません</item>
+    </string-array>
+
+    <string name="calc_dialog_erase">消去する</string>
+
+</resources>

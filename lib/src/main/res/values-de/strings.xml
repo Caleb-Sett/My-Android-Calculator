@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="calc_dialog_clear">Löschen</string>
+    <string name="calc_dialog_cancel">Abbrechen</string>
+    <string name="calc_dialog_ok">OK</string>
+
+    <string name="calc_answer">Ant</string>
+
+    <string-array name="calc_dialog_errors">
+        <item>Division durch Null</item>
+        <item>Außerhalb der Grenzen</item>
+        <item>Ergebnis muss positiv sein</item>
+        <item>Ergebnis muss negativ sein</item>
+    </string-array>
+
+    <string name="calc_dialog_erase">Löschen</string>
+
+</resources>
